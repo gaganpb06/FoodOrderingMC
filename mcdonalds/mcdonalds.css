@@ -1,0 +1,293 @@
+.headerlogo {
+  margin-top: 20px;
+}
+.poster {
+  background-color: #ffbc0d;
+  margin-top: 30px;
+}
+
+.img-gallery-container .row div img {
+  width: 100%;
+}
+.text {
+  font-weight: bold;
+  font-size: 40px;
+}
+.form .searchBox {
+  width: 57%;
+  outline: none;
+}
+.browse {
+  font-weight: bold;
+}
+.usingburgey {
+  margin-right: 2px;
+}
+.community {
+  margin-right: 2px;
+}
+.down {
+  margin-right: 2px;
+}
+.user {
+  margin-right: 2px;
+}
+.arrow {
+  margin-right: 2px;
+}
+.basket {
+  margin-left: 2px;
+}
+.serchcontainerlastimage {
+  width: 100%;
+}
+.inner {
+  border: none;
+  padding-left: 10px;
+}
+.serchcontainer {
+  border-radius: 22px;
+  background-color: #fff;
+  max-width: 575px;
+  margin: 0 auto;
+  padding: 8px 0;
+  overflow: hidden;
+}
+.searchsign {
+  position: absolute;
+  margin-top: 0px;
+  margin-right: 0px;
+}
+.style {
+  font-weight: bold;
+}
+
+.searchTool {
+  display: inline-block;
+  float: right;
+  width: 160px;
+}
+.searchIcon {
+  width: 72px;
+  background: red;
+  height: 29px;
+  display: inline-block;
+}
+.searchadvance {
+  border-left: 1px solid #544646;
+  padding-left: 7px;
+}
+.trendingassets {
+  color: red;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.global {
+  font-size: 15px;
+  margin-right: -8px;
+  font-weight: bold;
+}
+.text1 {
+  font-size: 14px;
+}
+.text2 {
+  font-size: 14px;
+}
+.text3 {
+  font-size: 14px;
+}
+.text4 {
+  font-size: 14px;
+}
+.globaltrendingassets {
+  font-weight: bold;
+  font-size: 12px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.allglobalmage {
+  width: 20px;
+  height: 20px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.collum {
+  font-weight: bold;
+  font-size: 15px;
+}
+.rightrowstyle {
+  font-weight: bold;
+}
+.rightrow {
+  font-size: 13px;
+}
+.rightrowstyle1 {
+  font-weight: bold;
+}
+.rightrowstyle2 {
+  font-weight: bold;
+}
+.LatestAssets {
+  color: red;
+  font-weight: bold;
+  font-size: 30px;
+}
+.collum1 {
+  font-weight: bold;
+  font-size: 15px;
+}
+.img-gallery-container1 .row div img {
+  width: 100%;
+}
+.latestglobalassets {
+  font-weight: bold;
+  font-size: 12px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.latestglobalassetsimage {
+  width: 20px;
+  height: 20px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.UsingBurgey {
+  margin-left: 15px;
+  font-weight: bold;
+  font-size: 25px;
+}
+.UsingBurgeyimage {
+  position: relative;
+}
+.playbutton {
+  position: absolute;
+  margin: -50px 0px 0px 37px;
+}
+.UsingBurgeyimage img {
+  height: 80px;
+  width: 80px;
+}
+.UsingBurgeyimage1 {
+  position: relative;
+}
+.playbutton1 {
+  position: absolute;
+  margin: -50px 0px 0px 37px;
+}
+.UsingBurgeyimage1 img {
+  height: 80px;
+  width: 80px;
+}
+.UsingBurgeyimage2 {
+  position: relative;
+}
+.playbutton2 {
+  position: absolute;
+  margin: -50px 0px 0px 37px;
+}
+.UsingBurgeyimage2 img {
+  height: 80px;
+  width: 80px;
+}
+.mediaportal {
+  margin-left: 10px;
+  font-weight: bold;
+  font-size: 14px;
+}
+.AdvancedFetching {
+  margin-left: 10px;
+  font-weight: bold;
+  font-size: 14px;
+}
+.Usethedirectory {
+  margin-left: 10px;
+  font-weight: bold;
+  font-size: 14px;
+}
+.doccuments .doc img {
+  height: 48px;
+  width: 60px;
+  margin-left: 10px;
+  margin-top: 10px;
+  font-size: 14px;
+}
+.tosit {
+  margin-left: 20px;
+  font-weight: bold;
+  font-size: 14px;
+}
+.tostay {
+    margin-left: 12px;
+    font-weight: bold;
+    font-size: 14px;
+}
+.BrowseCollections {
+  color: red;
+  font-weight: bold;
+  font-size: 30px;
+}
+.img-gallery-container2 .row div img {
+  width: 100%;
+}
+.viewallburgeyresources {
+  font-weight: bold;
+  font-size: 12px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.ViewAllburgeyresourceimages {
+  width: 20px;
+  height: 20px;
+  margin-top: 1px;
+  margin-left: 4px;
+}
+.ViewAllCollections {
+  font-weight: bold;
+  font-size: 13px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.ViewAllCollectionsimages {
+  width: 20px;
+  height: 20px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.globalfavourited {
+    margin-left: 47px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.MyAssets{
+    color: red;
+    font-weight: bold;
+    font-size: 30px;
+}
+.img-gallery-container3 .row div img {
+    width: 100%;
+  }
+  .ViewAllFavoritedAssets{
+    font-weight: bold;
+    font-size: 13px;
+    margin-left: 10px;
+    margin-top: 10px;
+  }
+  .ViewAllFavoritedAssetsimages{
+    width: 20px;
+    height: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+  }
+  .footer {
+    background-color: #ffbc0d;
+    margin-top: 30px;
+}
+.Allrightsreserved{
+    font-weight: bold;
+    margin-left: 77%;
+}
+.row{
+    width: 100%;
+}
+  
